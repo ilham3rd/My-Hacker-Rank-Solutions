@@ -1,4 +1,8 @@
-//https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+/*
+Difficulty : Medium
+Link : https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+*/
+
 
 #include <bits/stdc++.h>
 
